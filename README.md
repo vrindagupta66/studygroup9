@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Study Group A9: R Group project
 
 Group Members: Arman Topchu, Kaize Ying, Leonie Bick, Lorenz Freigassner, Tafadzwa Chinanzvavana, Yiyue Hu, Vrinda Gupta
@@ -19,4 +20,7 @@ To conduct our analysis and come up with model that best predicts the price we a
 
 In conclusion, the model that best predicts prices is  **log(price_4\_nights) = prop_type_simplified + number_of_reviews+ review_scores_rating + room_type + accommodates + neighbourhood_cleansed_simplified+ availability_30+ reviews_per_month** and it explains 52.6% of the variation in prices of Airbnb rentals for a 4 night stay for 2 people in Copenhagen
 
+=======
+# Study Group 9
+>>>>>>> 80fe09dc121869e5710bed1d34bfa9bbfd0c8b04
 
