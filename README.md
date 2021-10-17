@@ -9,9 +9,9 @@ Group Members: Arman Topchu, Kaize Ying, Leonie Bick, Lorenz Freigassner, Tafadz
 
 Based on the analysis of the data set we conclude that the best predictors of AirBnB prices for a 4 night stay for 2 people in Copenhagen are;
 
-1.  Type of property – \*the bigger and more private the property is the higher the price\*
+1.  Type of property – *the bigger and more private the property is the higher the price*
 2.  Number of reviews and review scores – *this is used as a proxy for the quality of the property as the higher the number of review and ratings the better the quality of the property*
-3.  Number of people the property accommodates – \*properties that accommodate more people tend to have higher prices\*
+3.  Number of people the property accommodates – *properties that accommodate more people tend to have higher prices*
 4.  Neighborhood the property is located – *more exclusive/ suburbs with properties located near the city have higher prices compared to others*
 5.  Availability of the property in the next 30 days – *properties available within the next 30 days tend to cost more as it is assumed the person is willing to pay more as the trip was likely booked without planning whereas more than 30 days the person is usually flexible and will likely look for bargains before booking*
 6.  Reviews per month
